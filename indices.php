@@ -16,8 +16,134 @@
         
         <?php $option=5; include("templates/navbartop.php"); ?>
         <div style="text-align: center; background-color: white;" class="jumbotron">    
-
+        <br><br><br>
             
+            <p  style="font-size: 2.5em;">
+            Indexados con
+            </p > 
+            
+            <p style="margin-bottom:3em;border: 0.5px solid black;"></p> 
+
+  <div class="row">
+
+
+    <div style="margin-right:2.7em;" class="col-md-2">
+      <div class="">
+        <a href="/w3images/lights.jpg" target="_blank">
+          <img src="styles/img/actualidad.jpg" alt="Lights" style="width:7em; height:5em">
+          <div class="caption">
+          </div>
+        </a>
+      </div>
+    </div>
+
+    <div style="margin-right:2.7em;" class="col-md-2">
+      <div class="">
+        <a href="/w3images/nature.jpg" target="_blank">
+          <img src="styles/img/ez3-logo-blanco.png" alt="Nature" style="width:7em; height:5em">
+          <div class="caption">
+            
+          </div>
+        </a>
+      </div>
+    </div>
+
+    <div style="margin-right:2.7em;" class="col-md-2">
+      <div class="">
+        <a href="/w3images/fjords.jpg" target="_blank">
+          <img src="styles/img/miar_2014.jpg" alt="Fjords" style="width:10em; height:5em">
+          <div class="caption">
+            
+          </div>
+        </a>
+      </div>
+    </div>
+
+    <div style="margin-right:2.7em;" class="col-md-2">
+      <div class="">
+        <a href="/w3images/fjords.jpg" target="_blank">
+          <img src="styles/img/oaji.jpg" alt="Fjords" style="width:12em; height:5em">
+          <div class="caption">
+            
+          </div>
+        </a>
+      </div>
+    </div>
+
+    <div class="col-md-2">
+      <div class="">
+        <a href="/w3images/fjords.jpg" target="_blank">
+          <img src="styles/img/OAJournals.jpg" alt="Fjords" style="width:10em; height:5em">
+          <div class="caption">
+            
+          </div>
+        </a>
+      </div>
+    </div>
+
+
+  </div>
+
+    <div style="margin-top:5em;" class="row">
+
+
+<div style="margin-right:2.7em;" class="col-md-2">
+  <div class="">
+    <a href="/w3images/lights.jpg" target="_blank">
+      <img src="styles/img/sjif_logo.png" alt="Lights" style="width:10em; height:5em">
+      <div class="caption">
+      </div>
+    </a>
+  </div>
+</div>
+
+<div style="margin-right:2.7em;" class="col-md-2">
+  <div class="">
+    <a href="/w3images/nature.jpg" target="_blank">
+      <img src="styles/img/SmallLogo-2.jpg" alt="Nature" style="width:10em; height:5em">
+      <div class="caption">
+        
+      </div>
+    </a>
+  </div>
+</div>
+
+<div style="margin-right:2.7em;" class="col-md-2">
+  <div class="">
+    <a href="/w3images/fjords.jpg" target="_blank">
+      <img src="styles/img/UIF.jpg" alt="Fjords" style="width:13em; height:4em">
+      <div class="caption">
+        
+      </div>
+    </a>
+  </div>
+</div>
+
+<div style="margin-right:2.7em;" class="col-md-2">
+  <div class="">
+    <a href="/w3images/fjords.jpg" target="_blank">
+      <img src="styles/img/microsoft.jpg" alt="Fjords" style="width:10em; height:5em">
+      <div class="caption">
+        
+      </div>
+    </a>
+  </div>
+</div>
+
+<div class="col-md-2">
+  <div class="">
+    <a href="/w3images/fjords.jpg" target="_blank">
+      <img src="styles/img/google.jpg" alt="Fjords" style="width:10em; height:5em">
+      <div class="caption">
+        
+      </div>
+    </a>
+  </div>
+</div>
+
+
+</div>
+
 
         </div>
         <?php include("templates/footer.php"); ?>
