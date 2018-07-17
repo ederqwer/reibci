@@ -74,13 +74,13 @@
         </li>
 
 
-        <li>
-          <a href="#">Libre Acceso</a>
+        <li <?php if(isset($option) && $option==6) echo 'class="active"';?>>
+          <a href="libreacceso.php">Libre Acceso</a>
         </li>
 
         
         <li>
-          <a href="#">Búsqueda</a>
+          <a href="busqueda.php">Búsqueda</a>
         </li>
       </ul>
 

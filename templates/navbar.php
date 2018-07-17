@@ -71,12 +71,12 @@
 
 
         <li>
-          <a href="#">Libre Acceso</a>
+          <a href="libreacceso.php">Libre Acceso</a>
         </li>
 
         
         <li>
-          <a href="#">Búsqueda</a>
+          <a href="busqueda.php">Búsqueda</a>
         </li>
       </ul>
       

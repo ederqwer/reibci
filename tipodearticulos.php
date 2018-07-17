@@ -16,7 +16,6 @@
         <?php $option = 5;
         include("templates/navbartop.php"); ?>
         <div style=" background-color: white;" class="jumbotron">    
-        <br><br><br>
 
             <p  style="text-align:center;font-size: 2.5em;">
             Tipos de artículos
@@ -24,9 +23,9 @@
             
             <p style="border: 0.5px solid black;"></p> 
 
-            <p style="text-align:justify;font-size: 1.25em;margin-top:2em;">
+            <p style="text-align:justify;font-size: 1.1em;margin-top:2em;">
                 Publicamos artículos relacionados con la investigación en cualquier área de la ciencia, respetando los siguientes formatos:</p>
-                <ul style="text-align:justify;font-size: 1.25em;margin-top:1em;">
+                <ul style="text-align:justify;font-size: 1.1em;margin-top:1em;">
                     <li>De investigación originales. Aquellos que describen la hipótesis, el estudio y los métodos de la investigación. Reporta resultados, su interpretación y puede incluir la discusión de las posibles implicaciones. </li>
                     <li>De reflexión. Documento que presenta resultados de investigación en proceso o terminada, en el cual se desarrolla una perspectiva analítica, interpretativa o crítica del autor, sobre un tema específico, recurriendo a fuentes originales. </li>
                     <li>De revisión. Resultado de una investigación en proceso o terminada en el cual se analizan, sistematizan e integran los avances y/o resultados de investigaciones publicadas o no publicadas, la intención es dar cuenta de sus tendencias y desarrollo. </li>
