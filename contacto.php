@@ -20,7 +20,7 @@
             <br><br><br>
 
             <p  style="font-size: 2.5em;">
-            DIRECCIÓN POSTAL
+            Dirección Postal
             </p > 
             
             <p style="border: 0.5px solid black;"></p> 

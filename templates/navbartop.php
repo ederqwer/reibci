@@ -61,7 +61,7 @@
         </li>
 
 
-        <li class="dropdown">
+        <li <?php if(isset($option) && $option==5) echo 'class="active"';?> class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Autores
           <span class="caret"></span></a>
             <ul class="dropdown-menu">
