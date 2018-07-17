@@ -33,7 +33,7 @@
     </div>
 
     <div class="btn-group">
-        <a href="#" class="btn-fab main-btn" id="">
+        <a href='<?php echo "ediciones/$url/portada.pdf";?>' class="btn-fab main-btn" id="">
           <img src="../styles/img/doc.png" style="width: 5em; height: 5em; " alt="">
         </a>
     </div>

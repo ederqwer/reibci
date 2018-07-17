@@ -29,7 +29,7 @@
 
     <div style="margin-right:2.7em;" class="col-md-2">
       <div class="">
-        <a href="/w3images/lights.jpg" target="_blank">
+        <a href="http://www.citrevistas.cl/actualidad/b2b_g22.html" target="_blank">
           <img src="styles/img/actualidad.jpg" alt="Lights" style="width:7em; height:5em">
           <div class="caption">
           </div>
@@ -39,7 +39,7 @@
 
     <div style="margin-right:2.7em;" class="col-md-2">
       <div class="">
-        <a href="/w3images/nature.jpg" target="_blank">
+        <a href="http://ezb.uni-regensburg.de/detail.phtml?bibid=UBR&colors=7&lang=en&jour_id=218174" target="_blank">
           <img src="styles/img/ez3-logo-blanco.png" alt="Nature" style="width:7em; height:5em">
           <div class="caption">
             
@@ -50,7 +50,7 @@
 
     <div style="margin-right:2.7em;" class="col-md-2">
       <div class="">
-        <a href="/w3images/fjords.jpg" target="_blank">
+        <a href="http://miar.ub.edu/es/issn/2334-2501" target="_blank">
           <img src="styles/img/miar_2014.jpg" alt="Fjords" style="width:10em; height:5em">
           <div class="caption">
             
@@ -61,7 +61,7 @@
 
     <div style="margin-right:2.7em;" class="col-md-2">
       <div class="">
-        <a href="/w3images/fjords.jpg" target="_blank">
+        <a href="http://oaji.net/journal-detail.html?number=1015" target="_blank">
           <img src="styles/img/oaji.jpg" alt="Fjords" style="width:12em; height:5em">
           <div class="caption">
             
@@ -72,7 +72,7 @@
 
     <div class="col-md-2">
       <div class="">
-        <a href="/w3images/fjords.jpg" target="_blank">
+        <a href="http://www.oajournals.info/" target="_blank">
           <img src="styles/img/OAJournals.jpg" alt="Fjords" style="width:10em; height:5em">
           <div class="caption">
             
@@ -89,7 +89,7 @@
 
 <div style="margin-right:2.7em;" class="col-md-2">
   <div class="">
-    <a href="/w3images/lights.jpg" target="_blank">
+    <a href="https://sjifactor.inno-space.org/passport.php?id=17341" target="_blank">
       <img src="styles/img/sjif_logo.png" alt="Lights" style="width:10em; height:5em">
       <div class="caption">
       </div>
@@ -99,7 +99,7 @@
 
 <div style="margin-right:2.7em;" class="col-md-2">
   <div class="">
-    <a href="/w3images/nature.jpg" target="_blank">
+    <a href="http://www.citefactor.org/journal/index/10836/revista-iberoamericana-de-ciencias#.W024lHYzakB" target="_blank">
       <img src="styles/img/SmallLogo-2.jpg" alt="Nature" style="width:10em; height:5em">
       <div class="caption">
         
@@ -110,7 +110,7 @@
 
 <div style="margin-right:2.7em;" class="col-md-2">
   <div class="">
-    <a href="/w3images/fjords.jpg" target="_blank">
+    <a href="http://www.uifactor.org/JournalDetails.aspx?jid=4146" target="_blank">
       <img src="styles/img/UIF.jpg" alt="Fjords" style="width:13em; height:4em">
       <div class="caption">
         
@@ -121,7 +121,7 @@
 
 <div style="margin-right:2.7em;" class="col-md-2">
   <div class="">
-    <a href="/w3images/fjords.jpg" target="_blank">
+    <a href="https://academic.microsoft.com/" target="_blank">
       <img src="styles/img/microsoft.jpg" alt="Fjords" style="width:10em; height:5em">
       <div class="caption">
         
@@ -132,7 +132,7 @@
 
 <div class="col-md-2">
   <div class="">
-    <a href="/w3images/fjords.jpg" target="_blank">
+    <a href="https://scholar.google.co.in/scholar?q=reibci.org" target="_blank">
       <img src="styles/img/google.jpg" alt="Fjords" style="width:10em; height:5em">
       <div class="caption">
         
