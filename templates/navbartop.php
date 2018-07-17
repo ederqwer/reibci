@@ -13,8 +13,8 @@
           <a href="/">Inicio</a>
         </li>
 
-        <li>
-          <a href="#">Avisos</a>
+        <li <?php if(isset($option) && $option==2) echo 'class="active"';?>> 
+          <a href="avisos.php">Avisos</a>
         </li>
 
 

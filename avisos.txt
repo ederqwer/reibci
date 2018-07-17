@@ -1,0 +1,2 @@
+01/01/1111
+Este es un ejemplo de aviso.<br><br>Hola a todos.

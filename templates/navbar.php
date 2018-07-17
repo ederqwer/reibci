@@ -10,7 +10,7 @@
 
 
         <li>
-          <a href="#">Avisos</a>
+          <a href="avisos.php">Avisos</a>
         </li>
 
 

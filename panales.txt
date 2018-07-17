@@ -1,0 +1,17 @@
+<div style="border-color:#559b4d;" class="panel panel-primary">
+                <div style="background-color:#559b4d; border-color:#559b4d" class="panel-heading">Panel with panel-primary class</div>
+                <div style="background-color:#d2e5d0;" class="panel-body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit dolorem iusto aperiam iure, alias error velit nobis sapiente minima vitae reprehenderit quam dolores in quasi odit deserunt provident mollitia molestias!</div>
+            </div>
+
+<div style="border-color:#4376b7;" class="panel panel-primary">
+                <div style="background-color:#4376b7; border-color:#4376b7" class="panel-heading">Panel with panel-primary class</div>
+                <div style="background-color:#cbdaed;" class="panel-body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit dolorem iusto aperiam iure, alias error velit nobis sapiente minima vitae reprehenderit quam dolores in quasi odit deserunt provident mollitia molestias!</div>
+            </div>
+            <div style="border-color:#bc5f40;" class="panel panel-primary">
+                <div style="background-color:#bc5f40; border-color:#bc5f40" class="panel-heading">Panel with panel-primary class</div>
+                <div style="background-color:#edd4cb;" class="panel-body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit dolorem iusto aperiam iure, alias error velit nobis sapiente minima vitae reprehenderit quam dolores in quasi odit deserunt provident mollitia molestias!</div>
+            </div>
+            <div style="border-color:#7f648c;" class="panel panel-primary">
+                <div style="background-color:#7f648c; border-color:#7f648c" class="panel-heading">Panel with panel-primary class</div>
+                <div style="background-color:#e2d5e8;" class="panel-body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit dolorem iusto aperiam iure, alias error velit nobis sapiente minima vitae reprehenderit quam dolores in quasi odit deserunt provident mollitia molestias!</div>
+            </div>
